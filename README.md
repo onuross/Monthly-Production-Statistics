@@ -28,11 +28,11 @@ The main function orchestrates the entire process. It opens the input file, call
 The script generates an output that looks like:
 
 ```plaintext
-Machine No   Monthly Production  Number of Production Days   Daily Production
-----------   ------------------  -------------------------   ----------------
-1            123456789012345678  20                         6172839450617283934
-2            987654321098765432  15                         65843621406543765432
+Machine No      Monthly Production  Number of Production Days   Daily Production
+----------      ------------------  -------------------------   ----------------
+1               123456789012345678  20                         6172839450617283934
+2               987654321098765432  15                         65843621406543765432
 ...
-Total        111111111111111111  35
-Max Machine  2
+Total           111111111111111111  35
+Max Machine     2
 Max Production  987654321098765432
